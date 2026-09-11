@@ -39,3 +39,7 @@ gen
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# ZIM build artefacts (scripts/build-zim.sh)
+build-zim
+zim-out
